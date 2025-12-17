@@ -10,8 +10,11 @@
   Component for registering class to work with application hints.
   
   credits to:
+  
   Fangorn Wizards Lab Exstension Library
+  
   Alexander Bagel
+  
   © Fangorn Wizards Lab 1998 - 2005.
   
   This component can be freely used and distributed in commercial and private environments.
