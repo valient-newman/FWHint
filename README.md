@@ -13,7 +13,8 @@
   
   Fangorn Wizards Lab Exstension Library
   
-  Alexander Bagel
+  Alexander (Rouse_) Bagel
+  <https://github.com/AlexanderBagel/>
   
   © Fangorn Wizards Lab 1998 - 2005.
   

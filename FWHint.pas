@@ -98,6 +98,7 @@ type
   PRGB = ^TRGB;
 
 implementation
+// Or add dcr to dpk 
 {$R 'FWHint.dcr'}
 
 uses Types, TypInfo, Variants;
